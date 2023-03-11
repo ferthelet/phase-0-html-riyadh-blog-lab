@@ -1,13 +1,13 @@
   index.html
     the wrapper section
-      1) has a <h1> element with the correct content
-      2) has a <h2> element with the correct content
+      ✔ has a <h1> element with the correct content
+      ✔ has a <h2> element with the correct content
     the content section
-      3) has three <h3> elements with the correct content
-      4) has three <p> elements with the correct content
-      5) has three <img> elements with the correct attributes
-      6) has two <a> elements with the correct attributes
+      ✔ has three <h3> elements with the correct content
+      ✔ has three <p> elements with the correct content
+      ✔ has three <img> elements with the correct attributes
+      ✔ has two <a> elements with the correct attributes
 
 
-  0 passing (14ms)
+  6 passing (18ms)
   
